@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/intro_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:weightSum="100"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:gravity="center_horizontal|center_vertical"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="20"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_cycle_6"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="top|center_horizontal"
+                android:padding="15dp"
+                android:src="@drawable/motorcycle" />
+
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/listview6"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="60"
+            android:layout_gravity="center"
+            android:elevation="20dp"
+
+            android:background="@color/colorPrimaryDark"
+            android:fadingEdge="none"
+            android:fillViewport="true">
+
+
+        </ListView>
+
+
+        <TextView
+            android:id="@+id/description6"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="20"
+            android:layout_gravity="bottom|center"
+            android:layout_margin="40dp"
+            android:layout_marginBottom="32dp"
+            android:layout_marginLeft="32dp"
+            android:layout_marginRight="32dp"
+            android:gravity="center"
+            android:maxEms="18"
+            android:text="@string/description04"
+            android:textColor="@android:color/white"
+            android:textSize="20dp"
+            android:visibility="invisible" />
+
+    </LinearLayout>
+
+</RelativeLayout>

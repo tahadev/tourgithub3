@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyTransformer01</string>
+
+    <string name="description01">description01</string>
+    <string name="description02">description02</string>
+    <string name="description03">description03</string>
+    <string name="description04">description04</string>
+
+    <string name="title01">title01</string>
+    <string name="title02">title02</string>
+    <string name="title03">title03</string>
+    <string name="title04">title04</string>
+
+</resources>

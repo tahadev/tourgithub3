@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tenthwindow-imac/Desktop/tour github/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/tenthwindow-imac/Desktop/tour github/app/build/intermediates/pre-dexed/debug/classes-6801e5caf24df00eaeb8de90c1bb22afd47198da.jar" />
+    </item>
+    <item
+        jar="/Users/tenthwindow-imac/Desktop/tour github/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/tenthwindow-imac/Desktop/tour github/app/build/intermediates/pre-dexed/debug/classes-c471b08c64f97be12b2ece3c98855cdef69720fa.jar" />
+    </item>
+    <item
+        jar="/Users/tenthwindow-imac/Desktop/tour/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/tenthwindow-imac/Desktop/tour/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-3bb941e450e066a29c7be25679a93141715d38d8.jar" />
+    </item>
+    <item
+        jar="/Users/tenthwindow-imac/Desktop/tour github/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/tenthwindow-imac/Desktop/tour github/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-0c64b2a06288f1e9a7b0f8b11920f816da2909bb.jar" />
+    </item>
+    <item
+        jar="/Users/tenthwindow-imac/Desktop/tour/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/tenthwindow-imac/Desktop/tour/app/build/intermediates/pre-dexed/debug/classes-b80d58550cf4ba132382b88746ca2d9ed64408a9.jar" />
+    </item>
+    <item
+        jar="/Users/tenthwindow-imac/Desktop/tour/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/tenthwindow-imac/Desktop/tour/app/build/intermediates/pre-dexed/debug/classes-b0cd0d5d4f588a2a606f97290cb112661f6e44fc.jar" />
+    </item>
+    <item
+        jar="/Users/tenthwindow-imac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/tenthwindow-imac/Desktop/tour/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-56f26b9dd65e1c85ccaa2b2c877a7e4295d3c3b7.jar" />
+    </item>
+
+</items>
